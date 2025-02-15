@@ -1,3 +1,7 @@
 vbnm,
 i am shsdu  change
+<<<<<<< HEAD
 djkhdkhdshhsfhchdhdhhx
+=======
+vxhcbn bdnnn 
+>>>>>>> twf
